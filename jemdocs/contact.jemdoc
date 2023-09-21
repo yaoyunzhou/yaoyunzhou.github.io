@@ -2,12 +2,17 @@
 = jemdoc -- contact details
 
 == Development
-jemdoc is developed by [http://stanford.edu/~jacobm/ Jacob Mattingley].
-Please [jacobm@stanford.edu contact Jacob] with any bug reports and
-comments.
-If reporting a bug, please run the command +jemdoc -\-version+ and include the
-result in your email.
 
-There are two levels of support:
-- Basic jemdoc, which I will attempt to support well, and
-- LaTeX equations in jemdoc, which I may attempt to support.
+Please [yaoyun-zhou@uiowa.edu contact Yaoyun] with any Interests in HPC, in
+math, in algorithm. They are all my friends ~awa. \n
+
+== More:
+
+- You can also chat with me in WeChat
+{{
+<div class="center" id="member-container">
+    <div id="member">
+        <img src="imgs/icons/weixin.jpg" width="500" height="600">
+    </div>
+</div>
+}}
