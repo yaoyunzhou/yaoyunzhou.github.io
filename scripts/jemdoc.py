@@ -129,6 +129,7 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="google-site-verification" content="c3CKedTHtVjP6OYJTSuAzVGSsPiB5TGz3UEEqnzu8fU" />
 
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
