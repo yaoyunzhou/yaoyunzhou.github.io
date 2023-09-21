@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{imgs/icons/YaoyunZhou.png}{profile pic}{150px}{155px}
 I am a Ph.D. student in the [https://cs.uiowa.edu/ Computer Science Department] at the [https://uiowa.edu/ University of Iowa].
-I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and advised by [https://homepage.divms.uiowa.edu/~guanpli/ Dr. Guanpeng Li].\n\n
+I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and advised by [https://homepage.divms.uiowa.edu/~guanpli/ Dr. Guanpeng Li].\n
 
 Before coming to UIowa, I received my Bachelor's degree (Sep.2019-Jun.2023, major: Information Security) at [http://www-en.hnu.edu.cn/ Hunan University], Changsha.\n  
 That gives me a better environment to explore some further technologies while learning knowledge.  
@@ -25,7 +25,7 @@ That gives me a better environment to explore some further technologies while le
     <div id="member">
         <img src="imgs/icons/uiowa.png" width="150" height="150">
         <img src="imgs/icons/hnu.png" width="150" height="150">
-        <a href="https://clustrmaps.com/site/1bwml"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Jj-Dl5lhB_eYFg83IhhDsp5nNncLRcmaRcbR9Olbui4&cl=ffffff" /></a>
+        <a href="https://clustrmaps.com/site/1bwml"  title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?d=Jj-Dl5lhB_eYFg83IhhDsp5nNncLRcmaRcbR9Olbui4&cl=ffffff" /></a>
     </div>
 </div>
 }}
