@@ -1,10 +1,9 @@
 == Experience
 
 == Work Experiences
-~~~
-- Google Research(Shanghai) , 2020
-  Select the KukaDiverseObjectEnv environment in PyBullet and input the photos captured by the camera in 
-PyBullet into the DQN network to output the estimated Q value. Assign policyNet parameters to targetNet 
-parameters every 200 iterations.Eventually, the robot learns what to do next. That is, how can the robot 
+
+- Google Research(Shanghai) , 2020 \n
+  Select the KukaDiverseObjectEnv environment in PyBullet and input the photos captured by the camera in \n
+PyBullet into the DQN network to output the estimated Q value. Assign policyNet parameters to targetNet \n
+parameters every 200 iterations.Eventually, the robot learns what to do next. That is, how can the robot \n
 catch the apple inside the box. The error rate is within Five percent.
-~~~
