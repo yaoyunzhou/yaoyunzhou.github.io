@@ -7,4 +7,6 @@
 parameters every 200 iterations.Eventually, the robot learns what to do next. That is, how can the robot catch the apple inside the box. The error rate is within Five percent.
 
 - PerfXLab HPC Optimization(Changsha),2022 \n
-  
+  Proficient in GPU programming under Liunx and the use of TF, Torch, and Caffe, with my own understanding of computer system architecture. Taught by my mentor Dr. Xiandyi Zhang (creator of OpenBlas), I learned HPC knowledge, \n
+applied cache, and DMA block algorithm, SIMD, Vacc and Qacc instructions and completed the optimization of the underlying operator library, the transplantation of some convolutional neural network libraries related to \n
+BNT, CNN and RL, as well as the transplantation of all algorithm libraries, including model quantization, compression, adjustment and the final test on pipline. And tuning of optimizer and accelerator on hardware
