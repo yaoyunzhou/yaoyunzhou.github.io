@@ -7,6 +7,7 @@
 parameters every 200 iterations.Eventually, the robot learns what to do next. That is, how can the robot catch the apple inside the box. The error rate is within Five percent.
 
 - PerfXLab HPC Optimization(Changsha),2022 \n
-  Proficient in GPU programming under Linux and the use of TF, Torch, and Caffe, with my understanding of computer system architecture. Taught by my mentor Dr. Xiandyi Zhang (creator of [https://github.com/OpenMathLib/OpenBLAS OpenBlas]),\n
-Using DMA block algorithm, SIMD in the Sort Algorithm with tflops 489GB/s and completed the optimization of the underlying operator library, the transplantation of some convolutional neural network \n
-libraries related to BNT, CNN, and RL, as well as the transplantation of all algorithm libraries, including model quantization, compression, adjustment, and the Pressure test on the pipeline. 
+ AI operator optimization in GPU programming advised by Xianyi Zhang(creator of [https://github.com/OpenMathLib/OpenBLAS OpenBlas]). Participate in the development of the Openblas open source project. \n
+Using DMA block algorithm(instead of loading from Cache directly), SIMD skills in the Sort (fp32, fp16, bf8) Operator algorithm and TopK Operator algorithm with tflops 489GB/s on the Enflame architecture \n
+chip and completed the optimization of  neural network libraries e.g.  BNT, exploiting data tiliing and loop vectorization from the four dimensions of NHCW and mainly segmented on the C dimension, \n
+subdividing into L1-cache.
